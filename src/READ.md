@@ -45,9 +45,12 @@ O array foi utilizado como estrutura base para armazenar os dados.
 - Na fila, os elementos são inseridos no final e removidos do início, utilizando duas variáveis de controle (início e fim).
 
 ---
+## Link vídeo Youtube
+https://www.youtube.com/watch?v=UqBzJq23ZdM
 
 ## Como compilar e executar
 
 ### 1. Compilar
 ```bash
 javac Main.java
+
